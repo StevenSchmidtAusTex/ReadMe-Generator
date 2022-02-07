@@ -1,8 +1,8 @@
-# ReadMe Generator
+  # ReadMe Generator
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
-  This project was made to test out Node.js abilities to create a prompt system to generate a ReadMe. It takes the user's input to populate a few common headers. This ReadMe was created within it.
+  This project was made to test out Node.js abilities to create a prompt system to generate a ReadMe. It takes the user's input to populate a few common headers. This ReadMe was    created within it.
 
   ## Table of Contents
   [Installation](#installation)
